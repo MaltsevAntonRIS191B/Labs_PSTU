@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\калькулятор ласт\калькулятор\Debug\калькулятор.vcxprojAssemblyReference.cache
+C:\Users\HP\Desktop\калькулятор ласт\калькулятор\Debug\калькулятор.exe
+C:\Users\HP\Desktop\калькулятор ласт\калькулятор\Debug\калькулятор.pdb
+C:\Users\HP\Desktop\калькулятор ласт\калькулятор\Debug\калькулятор.MyForm.resources
+C:\Users\HP\Desktop\калькулятор ласт\калькулятор\Debug\калькулятор.vcxproj.GenerateResource.cache
